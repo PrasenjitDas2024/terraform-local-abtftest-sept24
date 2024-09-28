@@ -6,3 +6,4 @@ variable "my_string" {
 
 output "print_string_var" {
   value = var.my_string
+}
